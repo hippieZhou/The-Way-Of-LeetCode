@@ -10,3 +10,7 @@ class Solution:
                 t = (j-i) * min(height[i], height[j])
                 max = max(_max, t)
         return _max
+
+    # 两端夹逼法
+    def maxArea(self, height: list) -> int:
+        pass
