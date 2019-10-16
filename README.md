@@ -30,9 +30,11 @@
 | Stack & Deuque     |                                                                       |     |
 |                    | https://leetcode.com/problems/valid-parentheses/ - 最近相关性 —> 栈！ | ✅   |
 |                    | https://leetcode.com/problems/min-stack/                              | ✅   |
-|                    | https://leetcode.com/problems/largest-rectangle-inhistogram           |     |
-|                    | https://leetcode.com/problems/sliding-window-maximum                  |     |
+|                    | https://leetcode.com/problems/largest-rectangle-in-histogram/         | 🔧  |
+|                    | https://leetcode.com/problems/sliding-window-maximum                  | 🔧  |
 | HomeWork           |                                                                       |     |
 |                    | https://leetcode.com/problems/design-circular-deque                   |     |
 |                    | https://leetcode.com/problems/trapping-rain-water/                    |     |
 |                    |                                                                       |     |
+
+
