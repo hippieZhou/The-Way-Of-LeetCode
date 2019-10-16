@@ -5,6 +5,8 @@
 
 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
 
+</div>
+
 | 🏷️                | 📝 💬                                                                 | ✏️  |
 | ------------------ | --------------------------------------------------------------------- | --- |
 | Array & LinkedList |                                                                       |     |
@@ -34,5 +36,3 @@
 |                    | https://leetcode.com/problems/design-circular-deque                   |     |
 |                    | https://leetcode.com/problems/trapping-rain-water/                    |     |
 |                    |                                                                       |     |
-
-</div>
