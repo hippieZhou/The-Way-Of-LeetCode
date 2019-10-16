@@ -29,7 +29,7 @@
 |                    | https://leetcode.com/problems/plus-one/                               |     |
 | Stack & Deuque     |                                                                       |     |
 |                    | https://leetcode.com/problems/valid-parentheses/ - 最近相关性 —> 栈！ | ✅   |
-|                    | https://leetcode.com/problems/min-stack/                              |     |
+|                    | https://leetcode.com/problems/min-stack/                              | ✅   |
 |                    | https://leetcode.com/problems/largest-rectangle-inhistogram           |     |
 |                    | https://leetcode.com/problems/sliding-window-maximum                  |     |
 | HomeWork           |                                                                       |     |
