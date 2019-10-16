@@ -26,7 +26,7 @@
 |                    | https://leetcode.com/problems/merge-sorted-array/                        | ✅   |
 |                    | https://leetcode.com/problems/two-sum/                                   | ✅   |
 |                    | https://leetcode.com/problems/move-zeroes/                               | ✅   |
-|                    | https://leetcode.com/problems/plus-one/                                  |     |
+|                    | https://leetcode.com/problems/plus-one/                                  | ✅   |
 | Stack & Deuque     |                                                                          |     |
 |                    | https://leetcode-cn.com/problems/valid-parentheses/ - 最近相关性 —> 栈！ |     |
 |                    | https://leetcode-cn.com/problems/min-stack/                              |     |
