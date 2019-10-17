@@ -26,11 +26,11 @@
 |                    | https://leetcode.com/problems/merge-sorted-array/                     | ✅   |
 |                    | https://leetcode.com/problems/two-sum/                                | ✅   |
 |                    | https://leetcode.com/problems/move-zeroes/                            | ✅   |
-|                    | https://leetcode.com/problems/plus-one/                               |     |
+|                    | https://leetcode.com/problems/plus-one/                               | ✅   |
 | Stack & Deuque     |                                                                       |     |
 |                    | https://leetcode.com/problems/valid-parentheses/ - 最近相关性 —> 栈！ | ✅   |
 |                    | https://leetcode.com/problems/min-stack/                              | ✅   |
-|                    | https://leetcode.com/problems/largest-rectangle-in-histogram/         | 🔧  |
+|                    | https://leetcode.com/problems/largest-rectangle-in-histogram/         | ✅  |
 |                    | https://leetcode.com/problems/sliding-window-maximum                  | ✅   |
 | HomeWork           |                                                                       |     |
 |                    | https://leetcode.com/problems/design-circular-deque                   |     |
