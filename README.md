@@ -33,7 +33,7 @@
 |                    | https://leetcode.com/problems/largest-rectangle-in-histogram/         | ✅   |
 |                    | https://leetcode.com/problems/sliding-window-maximum                  | ✅   |
 | HomeWork           |                                                                       |     |
-|                    | https://leetcode.com/problems/design-circular-deque                   |     |
+|                    | https://leetcode.com/problems/design-circular-deque                   | ✅   |
 |                    | https://leetcode.com/problems/trapping-rain-water/                    |     |
 |                    |                                                                       |     |
 
