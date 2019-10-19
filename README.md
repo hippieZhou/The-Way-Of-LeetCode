@@ -34,7 +34,7 @@
 |                    | https://leetcode.com/problems/sliding-window-maximum                  | ✅   |
 | HomeWork           |                                                                       |     |
 |                    | https://leetcode.com/problems/design-circular-deque                   | ✅   |
-|                    | https://leetcode.com/problems/trapping-rain-water/                    |     |
+|                    | https://leetcode.com/problems/trapping-rain-water/                    | ✅   |
 |                    |                                                                       |     |
 
 
