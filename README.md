@@ -36,9 +36,10 @@
 |                    | https://leetcode.com/problems/design-circular-deque                   | ✅   |
 |                    | https://leetcode.com/problems/trapping-rain-water/                    | ✅   |
 | 哈希表、映射、集合 |                                                                       |     |
+| HomeWork           |                                                                       |     |
 |                    | https://leetcode-cn.com/problems/valid-anagram                        | ✅   |
 |                    | https://leetcode-cn.com/problems/group-anagrams                       |     |
-|                    | https://leetcode-cn.com/problems/two-sum/                             |     |
+|                    | https://leetcode-cn.com/problems/two-sum/                             | ✅   |
 |                    |                                                                       |     |
 
 

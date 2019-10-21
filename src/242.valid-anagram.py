@@ -9,7 +9,7 @@ class Solution:
         dic2 = {}
         for i, v in enumerate(s):
             dic1[v] = dic2.get(v, 0) + 1
-        return dic1.values == dic2
+        return dic1 == dic2
 
 
 v = Solution().isAnagram("anagtam", "nbgbram")
