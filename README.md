@@ -47,7 +47,7 @@
 |                        | https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/                            |     |
 |                        | https://leetcode-cn.com/problems/n-ary-tree-level-order-traversal/                         |     |
 | 泛型递归、树的递归     |                                                                                            |     |
-|                        | https://leetcode-cn.com/problems/climbing-stairs/                                          |     |
+|                        | https://leetcode-cn.com/problems/climbing-stairs/                                          | ✅    |
 |                        | https://leetcode-cn.com/problems/generate-parentheses/                                     | ✅   |
 |                        | https://leetcode-cn.com/problems/invert-binary-tree/description/                           |     |
 |                        | https://leetcode-cn.com/problems/validate-binary-search-tree                               |     |
