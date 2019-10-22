@@ -9,13 +9,14 @@ class Solution:
     #     return array[n-1]
 
     def climbStairs(self, n: int) -> int:
-        if n < 3:
+        if n <= 2:
             return n
-        a, b, c = 1, 2, 3
+        f1, f2, f3 = 1, 2, 3
         for i in range(3, n+1):
-            c, = a+b
-            a, b = b, c
-        return c
+            f3 = f1 + f2
+            f1 = f2
+            f2 = f3
+        return f3
 
 
 print(Solution().climbStairs(1))
