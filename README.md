@@ -61,7 +61,7 @@
 |                        | https://leetcode-cn.com/problems/permutations/                                              |     |
 |                        | https://leetcode-cn.com/problems/permutations-ii/                                           |     |
 | 分治、回溯             |                                                                                             |     |
-|                        | https://leetcode-cn.com/problems/powx-n/                                                    |     |
+|                        | https://leetcode-cn.com/problems/powx-n/                                                    | ✅   |
 |                        | https://leetcode-cn.com/problems/subsets/                                                   |     |
 | Homework               |                                                                                             |     |
 |                        | https://leetcode-cn.com/problems/majority-element/ （简单、但是高频）                       |     |
