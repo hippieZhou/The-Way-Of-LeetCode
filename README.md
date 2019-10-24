@@ -43,9 +43,9 @@
 | 树、二叉树、二叉搜索树 |                                                                                             |     |
 |                        | https://leetcode-cn.com/problems/binary-tree-inorder-traversal/                             | ✅   |
 |                        | https://leetcode-cn.com/problems/binary-tree-preorder-traversal/                            | ✅   |
-|                        | https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/                            |     |
-|                        | https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/                             |     |
-|                        | https://leetcode-cn.com/problems/n-ary-tree-level-order-traversal/                          |     |
+|                        | https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/                            | ✅   |
+|                        | https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/                             | ✅   |
+|                        | https://leetcode-cn.com/problems/n-ary-tree-level-order-traversal/                          | ✅   |
 | 泛型递归、树的递归     |                                                                                             |     |
 |                        | https://leetcode-cn.com/problems/climbing-stairs/                                           | ✅   |
 |                        | https://leetcode-cn.com/problems/generate-parentheses/                                      | ✅   |
@@ -62,7 +62,7 @@
 |                        | https://leetcode-cn.com/problems/permutations-ii/                                           |     |
 | 分治、回溯             |                                                                                             |     |
 |                        | https://leetcode-cn.com/problems/powx-n/                                                    | ✅   |
-|                        | https://leetcode-cn.com/problems/subsets/                                                   |     |
+|                        | https://leetcode-cn.com/problems/subsets/                                                   | ✅   |
 | Homework               |                                                                                             |     |
 |                        | https://leetcode-cn.com/problems/majority-element/ （简单、但是高频）                       |     |
 |                        | https://leetcode-cn.com/problems/letter-combinations-of-aphone-number/                      |     |
