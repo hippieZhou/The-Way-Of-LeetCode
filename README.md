@@ -38,7 +38,7 @@
 | 哈希表、映射、集合     |                                                                                             |     |
 | HomeWork               |                                                                                             |     |
 |                        | https://leetcode-cn.com/problems/valid-anagram                                              | ✅   |
-|                        | https://leetcode-cn.com/problems/group-anagrams                                             |     |
+|                        | https://leetcode-cn.com/problems/group-anagrams                                             | ✅   |
 |                        | https://leetcode-cn.com/problems/two-sum/                                                   | ✅   |
 | 树、二叉树、二叉搜索树 |                                                                                             |     |
 |                        | https://leetcode-cn.com/problems/binary-tree-inorder-traversal/                             | ✅   |
