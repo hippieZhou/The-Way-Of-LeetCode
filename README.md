@@ -56,7 +56,7 @@
 |                        | https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/                     |     |
 | HomeWork               |                                                                                             |     |
 |                        | https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/                   | ✅   |
-|                        | https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/ |     |
+|                        | https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/ | ✅   |
 |                        | https://leetcode-cn.com/problems/combinations/                                              |     |
 |                        | https://leetcode-cn.com/problems/permutations/                                              |     |
 |                        | https://leetcode-cn.com/problems/permutations-ii/                                           |     |
