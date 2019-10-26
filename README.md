@@ -64,7 +64,7 @@
 |                        | https://leetcode-cn.com/problems/powx-n/                                                    | ✅   |
 |                        | https://leetcode-cn.com/problems/subsets/                                                   | ✅   |
 | Homework               |                                                                                             |     |
-|                        | https://leetcode-cn.com/problems/majority-element/ （简单、但是高频）                       |     |
+|                        | https://leetcode-cn.com/problems/majority-element/ （简单、但是高频）                       | ✅   |
 |                        | https://leetcode-cn.com/problems/letter-combinations-of-aphone-number/                      |     |
 |                        | https://leetcode-cn.com/problems/n-queens/                                                  |     |
 |                        |                                                                                             |     |
