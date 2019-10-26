@@ -49,7 +49,7 @@
 | 泛型递归、树的递归     |                                                                                             |     |
 |                        | https://leetcode-cn.com/problems/climbing-stairs/                                           | ✅   |
 |                        | https://leetcode-cn.com/problems/generate-parentheses/                                      | ✅   |
-|                        | https://leetcode-cn.com/problems/invert-binary-tree/                                        |     |
+|                        | https://leetcode-cn.com/problems/invert-binary-tree/                                        | ✅   |
 |                        | https://leetcode-cn.com/problems/validate-binary-search-tree/                               |     |
 |                        | https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/                              |     |
 |                        | https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/                              |     |
