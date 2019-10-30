@@ -68,7 +68,7 @@
 |                        | https://leetcode.com/problems/letter-combinations-of-a-phone-number/                     |     |
 |                        | https://leetcode.com/problems/n-queens/                                                  | ✅   |
 | DFS & BFS              |                                                                                          |     |
-|                        | https://leetcode.com/problems/binary-tree-level-order-traversal                          |     |
+|                        | https://leetcode.com/problems/binary-tree-level-order-traversal                          | ✅   |
 |                        | https://leetcode.com/problems/minimum-genetic-mutation                                   |     |
 |                        | https://leetcode.com/problems/generate-parentheses                                       |     |
 |                        | https://leetcode.com/problems/find-largest-value-in-each-tree-row                        |     |
