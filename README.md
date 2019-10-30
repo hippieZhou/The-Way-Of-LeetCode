@@ -73,17 +73,24 @@
 |                        | https://leetcode.com/problems/generate-parentheses                                       |     |
 |                        | https://leetcode.com/problems/find-largest-value-in-each-tree-row                        |     |
 | HomeWork               |                                                                                          |     |
-|                        | https://leetcode.com/problems/word-ladder/description/                                   |     |
-|                        | https://leetcode.com/problems/word-ladder-ii/description/                                |     |
+|                        | https://leetcode.com/problems/word-ladder/                                               |     |
+|                        | https://leetcode.com/problems/word-ladder-ii/                                            |     |
 |                        | https://leetcode.com/problems/number-of-islands/                                         |     |
-|                        | https://leetcode.com/problems/minesweeper/description/                                   |     |
+|                        | https://leetcode.com/problems/minesweeper/                                               |     |
 | 贪心算法               |                                                                                          |     |
-|                        | https://leetcode-cn.com/problems/lemonade-change/description/                            |     |
-|                        | https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/description/         |     |
-|                        | https://leetcode-cn.com/problems/assign-cookies/description/                             |     |
-|                        | https://leetcode-cn.com/problems/walking-robot-simulation/description/                   |     |
+|                        | https://leetcode-cn.com/problems/lemonade-change/                                        |     |
+|                        | https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/                     |     |
+|                        | https://leetcode-cn.com/problems/assign-cookies/                                         |     |
+|                        | https://leetcode-cn.com/problems/walking-robot-simulation/                               |     |
 |                        | https://leetcode-cn.com/problems/jump-game/                                              |     |
 |                        | https://leetcode-cn.com/problems/jump-game-ii/                                           |     |
+| 二分查找               |                                                                                          |     |
+|                        | https://leetcode-cn.com/problems/sqrtx/                                                  | ✅   |
+|                        | https://leetcode-cn.com/problems/valid-perfect-square/                                   |     |
+| Homework               |                                                                                          |     |
+|                        | https://leetcode-cn.com/problems/search-in-rotated-sorted-array/                         |     |
+|                        | https://leetcode-cn.com/problems/search-a-2d-matrix/                                     |     |
+|                        | https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/                   |     |
 |                        |                                                                                          |     |
 
 ## Help
