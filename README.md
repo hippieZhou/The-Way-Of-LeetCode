@@ -73,9 +73,9 @@
 |                        | https://leetcode.com/problems/generate-parentheses                                       | ✅   |
 |                        | https://leetcode.com/problems/find-largest-value-in-each-tree-row                        | ✅   |
 | HomeWork               |                                                                                          |     |
-|                        | https://leetcode.com/problems/word-ladder/                                               |     |
+|                        | https://leetcode.com/problems/word-ladder/                                               | ✅   |
 |                        | https://leetcode.com/problems/word-ladder-ii/                                            |     |
-|                        | https://leetcode.com/problems/number-of-islands/                                         |     |
+|                        | https://leetcode.com/problems/number-of-islands/                                         | ✅   |
 |                        | https://leetcode.com/problems/minesweeper/                                               |     |
 | 贪心算法               |                                                                                          |     |
 |                        | https://leetcode-cn.com/problems/lemonade-change/                                        |     |
