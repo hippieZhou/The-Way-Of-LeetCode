@@ -69,9 +69,9 @@
 |                        | https://leetcode.com/problems/n-queens/                                                  | ✅   |
 | DFS & BFS              |                                                                                          |     |
 |                        | https://leetcode.com/problems/binary-tree-level-order-traversal                          | ✅   |
-|                        | https://leetcode.com/problems/minimum-genetic-mutation                                   |     |
-|                        | https://leetcode.com/problems/generate-parentheses                                       |     |
-|                        | https://leetcode.com/problems/find-largest-value-in-each-tree-row                        |     |
+|                        | https://leetcode.com/problems/minimum-genetic-mutation                                   | ✅   |
+|                        | https://leetcode.com/problems/generate-parentheses                                       | ✅   |
+|                        | https://leetcode.com/problems/find-largest-value-in-each-tree-row                        | ✅   |
 | HomeWork               |                                                                                          |     |
 |                        | https://leetcode.com/problems/word-ladder/                                               |     |
 |                        | https://leetcode.com/problems/word-ladder-ii/                                            |     |
