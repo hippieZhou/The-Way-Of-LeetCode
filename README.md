@@ -78,7 +78,7 @@
 |                        | https://leetcode.com/problems/number-of-islands/                                         | ✅   |
 |                        | https://leetcode.com/problems/minesweeper/                                               |     |
 | 贪心算法               |                                                                                          |     |
-|                        | https://leetcode-cn.com/problems/lemonade-change/                                        |     |
+|                        | https://leetcode-cn.com/problems/lemonade-change/                                        | ✅   |
 |                        | https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/                     | ✅   |
 |                        | https://leetcode-cn.com/problems/assign-cookies/                                         |     |
 |                        | https://leetcode-cn.com/problems/walking-robot-simulation/                               |     |
@@ -92,6 +92,10 @@
 |                        | https://leetcode-cn.com/problems/search-a-2d-matrix/                                     | ✅   |
 |                        | https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/                   | ✅   |
 |                        |                                                                                          |     |
+
+## 分享
+
+社群分享：[第三期](share.md)
 
 ## Help
 
