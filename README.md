@@ -91,6 +91,15 @@
 |                        | https://leetcode-cn.com/problems/search-in-rotated-sorted-array/                         | ✅   |
 |                        | https://leetcode-cn.com/problems/search-a-2d-matrix/                                     | ✅   |
 |                        | https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/                   | ✅   |
+| DP                     |                                                                                          |     |
+|                        | https://leetcode-cn.com/problems/unique-paths/                                           |     |
+|                        | https://leetcode-cn.com/problems/unique-paths-ii/                                        |     |
+|                        | https://leetcode-cn.com/problems/longest-common-subsequence/                             |     |
+|                        |                                                                                          |     |
+|                        |                                                                                          |     |
+|                        |                                                                                          |     |
+|                        |                                                                                          |     |
+|                        |                                                                                          |     |
 |                        |                                                                                          |     |
 
 ## 分享
