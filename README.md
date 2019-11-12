@@ -96,8 +96,8 @@
 |                        | https://leetcode-cn.com/problems/unique-paths-ii/                                        | ✅   |
 |                        | https://leetcode-cn.com/problems/longest-common-subsequence/                             | ✅   |
 |                        | https://leetcode-cn.com/problems/climbing-stairs/                                        |     |
-|                        | https://leetcode-cn.com/problems/triangle/                                               |     |
-|                        | https://leetcode-cn.com/problems/maximum-subarray/                                       |     |
+|                        | https://leetcode-cn.com/problems/triangle/                                               | ✅   |
+|                        | https://leetcode-cn.com/problems/maximum-subarray/                                       | ✅   |
 |                        | https://leetcode-cn.com/problems/maximum-productsubarray/                                |     |
 |                        | https://leetcode-cn.com/problems/coin-change/                                            |     |
 | 状态数                 |                                                                                          |     |
