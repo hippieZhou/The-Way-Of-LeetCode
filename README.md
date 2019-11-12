@@ -92,15 +92,46 @@
 |                        | https://leetcode-cn.com/problems/search-a-2d-matrix/                                     | ✅   |
 |                        | https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/                   | ✅   |
 | DP                     |                                                                                          |     |
+|                        | https://leetcode-cn.com/problems/unique-paths/                                           | ✅   |
+|                        | https://leetcode-cn.com/problems/unique-paths-ii/                                        | ✅   |
+|                        | https://leetcode-cn.com/problems/longest-common-subsequence/                             | ✅   |
+|                        | https://leetcode-cn.com/problems/climbing-stairs/                                        |     |
+|                        | https://leetcode-cn.com/problems/triangle/                                               |     |
+|                        | https://leetcode-cn.com/problems/maximum-subarray/                                       |     |
+|                        | https://leetcode-cn.com/problems/maximum-productsubarray/                                |     |
+|                        | https://leetcode-cn.com/problems/coin-change/                                            |     |
+| 状态数                 |                                                                                          |     |
+|                        | https://leetcode-cn.com/problems/house-robber/                                           |     |
+|                        | https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock                         |     |
+|                        | https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/                     |     |
+|                        | https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iii/                    |     |
+|                        | https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/          |     |
+|                        | https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iv/                     |     |
+|                        | https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-transactionfee/    |     |
+|                        | https://leetcode-cn.com/problems/perfect-squares/                                        |     |
+|                        | https://leetcode-cn.com/problems/edit-distance/ （重点）                                 |     |
+|                        | https://leetcode-cn.com/problems/jump-game/                                              |     |
+|                        | https://leetcode-cn.com/problems/jump-game-ii/                                           |     |
 |                        | https://leetcode-cn.com/problems/unique-paths/                                           |     |
-|                        | https://leetcode-cn.com/problems/unique-paths-ii/                                        |     |
-|                        | https://leetcode-cn.com/problems/longest-common-subsequence/                             |     |
-|                        |                                                                                          |     |
-|                        |                                                                                          |     |
-|                        |                                                                                          |     |
-|                        |                                                                                          |     |
-|                        |                                                                                          |     |
-|                        |                                                                                          |     |
+|                        | https://leetcode-cn.com/problems/unique-paths-ii/                                        |
+|                        | https://leetcode-cn.com/problems/unique-paths-iii/                                       |
+|                        | https://leetcode-cn.com/problems/coin-change/                                            |     |
+|                        | https://leetcode-cn.com/problems/coin-change-2/                                          |     |
+| Homework               |                                                                                          |     |
+|                        | https://leetcode-cn.com/problems/longest-valid-parentheses/                              |     |
+|                        | https://leetcode-cn.com/problems/minimum-path-sum/                                       |     |
+|                        | https://leetcode-cn.com/problems/edit-distance/                                          |     |
+|                        | https://leetcode-cn.com/problems/decode-ways                                             |     |
+|                        | https://leetcode-cn.com/problems/maximal-square/                                         |     |
+|                        | https://leetcode-cn.com/problems/max-sum-of-rectangle-no-larger-than-k/                  |     |
+|                        | https://leetcode-cn.com/problems/frog-jump/                                              |     |
+|                        | https://leetcode-cn.com/problems/split-array-largest-sum                                 |     |
+|                        | https://leetcode-cn.com/problems/student-attendance-record-ii/                           |     |
+|                        | https://leetcode-cn.com/problems/task-scheduler/                                         |     |
+|                        | https://leetcode-cn.com/problems/palindromic-substrings/                                 |     |
+|                        | https://leetcode-cn.com/problems/minimum-window-substring/                               |     |
+|                        | https://leetcode-cn.com/problems/burst-balloons/                                         |
+|                        |
 
 ## 分享
 
