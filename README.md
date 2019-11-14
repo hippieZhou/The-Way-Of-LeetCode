@@ -100,7 +100,7 @@
 |                        | https://leetcode-cn.com/problems/maximum-subarray/                                       | ✅   |
 |                        | https://leetcode-cn.com/problems/maximum-productsubarray/                                |     |
 |                        | https://leetcode-cn.com/problems/coin-change/                                            |     |
-| 状态数                 |                                                                                          |     |
+|                        |                                                                                          |     |
 |                        | https://leetcode-cn.com/problems/house-robber/                                           |     |
 |                        | https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock                         |     |
 |                        | https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/                     |     |
