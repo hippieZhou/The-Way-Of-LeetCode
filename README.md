@@ -118,9 +118,9 @@
 |                        | https://leetcode-cn.com/problems/coin-change/                                            |     |
 |                        | https://leetcode-cn.com/problems/coin-change-2/                                          |     |
 | Homework               |                                                                                          |     |
-|                        | https://leetcode-cn.com/problems/longest-valid-parentheses/                              |     |
+|                        | https://leetcode-cn.com/problems/longest-valid-parentheses/                              | ✅   |
 |                        | https://leetcode-cn.com/problems/minimum-path-sum/                                       |     |
-|                        | https://leetcode-cn.com/problems/edit-distance/                                          |     |
+|                        | https://leetcode-cn.com/problems/edit-distance/                                          | ✅   |
 |                        | https://leetcode-cn.com/problems/decode-ways                                             |     |
 |                        | https://leetcode-cn.com/problems/maximal-square/                                         |     |
 |                        | https://leetcode-cn.com/problems/max-sum-of-rectangle-no-larger-than-k/                  |     |
