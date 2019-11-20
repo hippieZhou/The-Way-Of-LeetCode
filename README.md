@@ -138,9 +138,23 @@
 |                        | https://leetcode-cn.com/problems/friend-circles                                          |     |
 |                        | https://leetcode-cn.com/problems/number-of-islands/                                      |     |
 |                        | https://leetcode-cn.com/problems/surrounded-regions/                                     |     |
+| 高级搜索               |
+| 回溯法                 |                                                                                          |     |
+|                        | https://leetcode-cn.com/problems/climbing-stairs/                                        |     |
+|                        | https://leetcode-cn.com/problems/generate-parentheses/                                   |     |
+|                        | https://leetcode-cn.com/problems/n-queens/                                               |     |
+|                        | https://leetcode-cn.com/problems/valid-sudoku/description/                               |     |
+|                        | https://leetcode-cn.com/problems/sudoku-solver/#/description                             |     |
+| 双向 BFS               |                                                                                          |     |
+|                        | https://leetcode-cn.com/problems/word-ladder/                                            |     |
+|                        | https://leetcode-cn.com/problems/minimum-geneticmutation/                                |     |
+| 启发式搜索（A*）       |                                                                                          |     |
+|                        | https://leetcode-cn.com/problems/shortest-path-in-binarymatrix/                          |     |
+|                        | https://leetcode-cn.com/problems/sliding-puzzle/                                         |     |
+|                        | https://leetcode-cn.com/problems/sudoku-solver/                                          |     |
+| 高级树、AVL 树和红黑树 |
 |                        |                                                                                          |     |
-
-
+ 
 ## 分享
 
 社群分享：[第三期](share.md)
