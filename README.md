@@ -135,8 +135,8 @@
 |                        | https://leetcode-cn.com/problems/implement-trie-prefix-tree/                             | ✅   |
 |                        | https://leetcode-cn.com/problems/word-search-ii/                                         |     |
 | 并查集 （Homework）    |                                                                                          |     |
-|                        | https://leetcode-cn.com/problems/friend-circles                                          |     |
-|                        | https://leetcode-cn.com/problems/number-of-islands/                                      |     |
+|                        | https://leetcode-cn.com/problems/friend-circles                                          | ✅   |
+|                        | https://leetcode-cn.com/problems/number-of-islands/                                      | ✅   |
 |                        | https://leetcode-cn.com/problems/surrounded-regions/                                     |     |
 | 高级搜索               |
 | 回溯法                 |                                                                                          |     |
