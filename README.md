@@ -155,13 +155,13 @@
 | 高级树、AVL 树和红黑树 |
 |                        |                                                                                          |     |
 | 位运算                 |                                                                                          |     |
-|                        | https://leetcode-cn.com/problems/number-of-1-bits/                                       |     |
-|                        | https://leetcode-cn.com/problems/power-of-two/                                           |     |
-|                        | https://leetcode-cn.com/problems/reverse-bits/                                           |     |
+|                        | https://leetcode-cn.com/problems/number-of-1-bits/                                       | ✅   |
+|                        | https://leetcode-cn.com/problems/power-of-two/                                           | ✅   |
+|                        | https://leetcode-cn.com/problems/reverse-bits/                                           | ✅   |
 |                        | https://leetcode-cn.com/problems/n-queens/description/                                   |     |
 |                        | https://leetcode-cn.com/problems/n-queens-ii/description/                                |     |
 | 布隆过滤器，LRU Cache  |                                                                                          |     |
-|                        | https://leetcode-cn.com/problems/lru-cache/                                              |     |
+|                        | https://leetcode-cn.com/problems/lru-cache/                                              | ✅   |
 | 排序算法               |                                                                                          |     |
 |                        | https://leetcode-cn.com/problems/relative-sort-array/                                    |     |
 |                        | https://leetcode-cn.com/problems/valid-anagram/                                          |     |
