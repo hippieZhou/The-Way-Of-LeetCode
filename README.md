@@ -168,6 +168,27 @@
 |                        | https://leetcode-cn.com/problems/design-a-leaderboard/                                   |     |
 |                        | https://leetcode-cn.com/problems/merge-intervals/                                        |     |
 |                        | https://leetcode-cn.com/problems/reverse-pairs/                                          |     |
+| 高级动态规划           |                                                                                          |     |
+|                        | https://leetcode-cn.com/problems/longest-increasing-subsequence/                         |     |
+|                        | https://leetcode-cn.com/problems/decode-ways/                                            |     |
+|                        | https://leetcode-cn.com/problems/longest-valid-parentheses/                              |     |
+|                        | https://leetcode-cn.com/problems/maximal-rectangle/                                      |     |
+|                        | https://leetcode-cn.com/problems/distinct-subsequences/                                  |     |
+|                        | https://leetcode-cn.com/problems/race-car/                                               |     |
+| 字符串算法             |                                                                                          |     |
+|                        | https://leetcode-cn.com/problems/first-unique-character-in-a-string/                     |     |
+|                        | https://leetcode-cn.com/problems/string-to-integer-atoi/                                 |     |
+|                        | https://leetcode-cn.com/problems/reverse-string-ii/                                      |     |
+|                        | https://leetcode-cn.com/problems/reverse-words-in-a-string                               |     |
+|                        | https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/                          |     |
+|                        | https://leetcode-cn.com/problems/reverse-only-letters/                                   |     |
+|                        | https://leetcode-cn.com/problems/find-all-anagrams-in-a-string/                          |     |
+|                        | https://leetcode-cn.com/problems/longest-palindromic-substring                           |     |
+|                        | https://leetcode-cn.com/problems/isomorphic-strings/                                     |     |
+|                        | https://leetcode-cn.com/problems/valid-palindrome-ii/                                    |     |
+|                        | https://leetcode-cn.com/problems/wildcard-matching                                       |     |
+|                        | https://leetcode-cn.com/problems/longest-valid-parentheses                               |     |
+|                        | https://leetcode-cn.com/problems/distinct-subsequences/                                  |     |
 |                        |                                                                                          |     |
 
 <div align='center'>
