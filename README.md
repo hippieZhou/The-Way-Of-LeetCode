@@ -178,8 +178,8 @@
 | 字符串算法             |                                                                                          |     |
 |                        | https://leetcode-cn.com/problems/first-unique-character-in-a-string/                     |     |
 |                        | https://leetcode-cn.com/problems/string-to-integer-atoi/                                 |     |
-|                        | https://leetcode-cn.com/problems/reverse-string-ii/                                      |     |
-|                        | https://leetcode-cn.com/problems/reverse-words-in-a-string                               |     |
+|                        | https://leetcode-cn.com/problems/reverse-string-ii/                                      | ✅   |
+|                        | https://leetcode-cn.com/problems/reverse-words-in-a-string                               | ✅   |
 |                        | https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/                          |     |
 |                        | https://leetcode-cn.com/problems/reverse-only-letters/                                   |     |
 |                        | https://leetcode-cn.com/problems/find-all-anagrams-in-a-string/                          |     |
